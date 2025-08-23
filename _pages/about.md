@@ -22,7 +22,7 @@ redirect_from:
 
 {% include_relative includes/pub.md %}
 
-{% include_relative includes/tech.md %}
+<!-- {% include_relative includes/tech.md %} -->
 
 <!-- {% include_relative includes/edu.md %} -->
 
