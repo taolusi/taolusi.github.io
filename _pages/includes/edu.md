@@ -1,4 +1,4 @@
 # 📖 Educations
-- *2019.09 - 2023.03*, PhD, computer science and technology, Zhejiang University, Hangzhou.
-- *2017.09 - 2019.07*, Master, computer science and technology, Harbin Institute of Technology, Harbin. 
-- *2013.09 - 2017.07*, Bachelor, computer science and technology, Harbin Institute of Technology, Harbin. 
+- *2021.09 - present*, PhD Student, Computer Science and Technology, Zhejiang University, Hangzhou.
+- *2015.09 - 2018.03*, Master, Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing. 
+- *2011.09 - 2015.06*, Bachelor, Internet of Things, Nanjing University of Aeronautics and Astronautics, Nanjing. 
