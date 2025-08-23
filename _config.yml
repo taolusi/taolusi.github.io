@@ -7,9 +7,9 @@ encoding: utf-8
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xuefeng Bai (白雪峰)"
-description              : "Assistant Professor at HITsz"
-repository               : "goodbai-nlp/goodbai-nlp.github.io"
+title                    : "Qingkai Min (闵庆凯)"
+description              : "Ph.D. Student in NLP"
+repository               : "taolusi/taolusi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuefeng Bai"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology (Shenzhen)"
-  location         : "Shenzhen, China"
+  name             : "Qingkai Min"
+  avatar           : "images/qingkai.jpg"
+  bio              : "Westlake University, Zhejiang University (Joint Ph.D. Program)"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=wqK7rRgAAAAJ"
-  email            : "baixuefeng@hit.edu.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bsj7GpoAAAAJ"
+  email            : "minqingkai@westlake.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,15 +38,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : goodbai-nlp # e.g., "github username"
+  github           : "taolusi" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/249/8137.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0009-0003-8001-8904" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
