@@ -8,7 +8,7 @@ encoding: utf-8
 
 # Site Settings
 title                    : "Qingkai Min (闵庆凯)"
-description              : "Ph.D. Student in NLP"
+description              : "Westlake University, Zhejiang University (Joint Ph.D. Program)"
 repository               : "taolusi/taolusi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qingkai Min"
   avatar           : "images/qingkai.jpg"
-  bio              : "Westlake University, Zhejiang University (Joint Ph.D. Program)"
+  bio              : "Ph.D. Student in NLP"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
