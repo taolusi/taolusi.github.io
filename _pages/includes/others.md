@@ -1,6 +1,13 @@
+
+# 💻 Internships
+- *2022.03 - 2024.12*, AWS AI Shanghai Lab, China, advised by Dr. Qipeng Guo.
+
 # 📝 Academic Services
 - Program Committee Member:
     + ARR, ACL, EMNLP, AAAI, IJCAI, etc.
 
-# 💻 Internships
-- *2022.03 - 2024.12*, AWS AI Shanghai Lab, China, advised by Dr. Qipeng Guo.
+# 🎖 Honors and Awards
+- *2017* University Scholarship, Nanjing University of Aeronautics and Astronautics 
+- *2016* University Scholarship, Nanjing University of Aeronautics and Astronautics 
+- *2015* University Scholarship, Nanjing University of Aeronautics and Astronautics 
+- *2012* University Scholarship, Nanjing University of Aeronautics and Astronautics
